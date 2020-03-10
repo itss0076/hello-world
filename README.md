@@ -1,2 +1,3 @@
 # hello-world
-Neil's getting-started-with-github repository
+
+I am Neil, and this is my repository for messing around to learn GitHub.
